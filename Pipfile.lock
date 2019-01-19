@@ -36,7 +36,7 @@
                 "sha256:37f5876c1fbfd66085001f4c06fa0bf96ef05442c53daf8d4294b6f29e7fa6b8"
             ],
             "index": "pypi",
-            "version": "==1.11.16"
+            "version": ">=1.11.18"
         },
         "djangocms-installer": {
             "hashes": [
